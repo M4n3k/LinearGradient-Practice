@@ -1,2 +1,2 @@
 # LinearGradient-Practice
-This repo is consist a small practice of linear gradient values..
+This repo consists of a small practice of linear-gradient values.
